@@ -67,7 +67,7 @@ sudo python strong_pass_gen.py
 
 
 ![Screenshot at 2020-08-24 10-10-10](https://user-images.githubusercontent.com/69615463/91004772-c2b96e00-e5f2-11ea-90c2-30fa5280108d.png)
-
+ 
 
 ![Screenshot at 2020-08-24 10-10-57](https://user-images.githubusercontent.com/69615463/91004802-d369e400-e5f2-11ea-8758-65d36c35a7c5.png)
 
@@ -78,3 +78,4 @@ sudo python strong_pass_gen.py
 ![Screenshot at 2020-08-24 10-13-36](https://user-images.githubusercontent.com/69615463/91004878-00b69200-e5f3-11ea-92dc-c5b6ab4c8334.png)
 
 
+When you press control + c .This program is stop.
