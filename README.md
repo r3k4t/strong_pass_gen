@@ -34,7 +34,7 @@
            Strong Password Generator
                           
 
-In modern time everything is hack.Protect your account to hacker and cracker.Create your own strong password.This password generator can generate wifi ,facebook,twitter,Instagram strong password.
+In the modern time everything is hack.Protect your account to hacker and cracker.Create your own strong password.This password generator can generate wifi ,facebook,twitter,Instagram strong password.
 
 ### Installation ###
 
